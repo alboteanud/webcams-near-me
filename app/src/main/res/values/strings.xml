@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Webcams</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="windy_api_key" translatable="false">D9shU62zYfuI35AkCM9F6xq5x6lZ1qfb</string>
+    <string name="config_area_km_webcams" translatable="false">150</string>
+    <string name="text_go_button">GO</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="toast_no_webcams_found">No webcams found in your area</string>
+    <string name="content_description_image_webcam">Webcam image</string>
+</resources>
